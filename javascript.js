@@ -1,3 +1,27 @@
+class Calculator {
+    constructor(previousOperandTextElement, currentOperandTextElement){
+    }
+}
+
+const numberButton = document.querySelectorAll('[data-number]')
+const operationButtons = document.querySelectorAll('[data-operation]')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //   $(function () {
 //
 //      var calculator = $("calculator");
